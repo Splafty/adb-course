@@ -1,0 +1,87 @@
+12.11.2025 19:52:08	This log contains information about the import schema operation into project 'ZaawansowaneBazyDanych' on computer 'DESKTOP-8FB45VI' by user 'Splaf'.
+12.11.2025 19:52:09	Import of database schema has started.
+12.11.2025 19:52:09	Gathering logins
+12.11.2025 19:52:18	Gathering database credentials
+12.11.2025 19:52:18	Gathering database options
+12.11.2025 19:52:18	Gathering generic database scoped configuration option
+12.11.2025 19:52:18	Gathering users
+12.11.2025 19:52:18	Gathering roles
+12.11.2025 19:52:18	Gathering application roles
+12.11.2025 19:52:18	Gathering role memberships
+12.11.2025 19:52:18	Gathering filegroups
+12.11.2025 19:52:18	Gathering full-text catalogs
+12.11.2025 19:52:18	Gathering assemblies
+12.11.2025 19:52:18	Gathering certificates
+12.11.2025 19:52:18	Gathering symmetric keys
+12.11.2025 19:52:18	Gathering encrypted symmetric keys
+12.11.2025 19:52:18	Gathering schemas
+12.11.2025 19:52:18	Gathering XML schema collections
+12.11.2025 19:52:18	Gathering user-defined data types
+12.11.2025 19:52:19	Gathering user-defined types
+12.11.2025 19:52:19	Gathering table types
+12.11.2025 19:52:19	Gathering unique keys for table types
+12.11.2025 19:52:19	Gathering primary keys for table types
+12.11.2025 19:52:19	Gathering indexes for table types
+12.11.2025 19:52:19	Gathering check constraints for table types
+12.11.2025 19:52:19	Gathering default constraints for table types
+12.11.2025 19:52:19	Gathering partition functions
+12.11.2025 19:52:19	Gathering partition schemes
+12.11.2025 19:52:19	Gathering functions
+12.11.2025 19:52:19	Gathering encrypted functions
+12.11.2025 19:52:19	Gathering aggregates
+12.11.2025 19:52:19	Gathering procedures
+12.11.2025 19:52:19	Gathering encrypted procedures
+12.11.2025 19:52:19	Gathering tables
+12.11.2025 19:52:20	Gathering primary keys
+12.11.2025 19:52:20	Gathering unique constraints
+12.11.2025 19:52:20	Gathering foreign keys
+12.11.2025 19:52:20	Gathering default constraints
+12.11.2025 19:52:20	Gathering check constraints
+12.11.2025 19:52:20	Gathering views
+12.11.2025 19:52:20	Gathering encrypted views
+12.11.2025 19:52:20	Gathering indexes
+12.11.2025 19:52:20	Gathering statistics
+12.11.2025 19:52:20	Gathering full-text index stoplists
+12.11.2025 19:52:20	Gathering search property lists
+12.11.2025 19:52:20	Gathering search properties
+12.11.2025 19:52:20	Gathering full-text indexes
+12.11.2025 19:52:20	Gathering column store indexes
+12.11.2025 19:52:20	Gathering spatial indexes
+12.11.2025 19:52:20	Gathering XML indexes
+12.11.2025 19:52:20	Gathering Selective XML indexes
+12.11.2025 19:52:20	Gathering encrypted triggers
+12.11.2025 19:52:20	Gathering triggers
+12.11.2025 19:52:20	Gathering encrypted and clr ddl triggers
+12.11.2025 19:52:20	Gathering ddl triggers
+12.11.2025 19:52:20	Creating edge constraints
+12.11.2025 19:52:20	Gathering synonyms
+12.11.2025 19:52:20	Gathering defaults
+12.11.2025 19:52:20	Gathering data constraint uddt bindings
+12.11.2025 19:52:20	Gathering rules
+12.11.2025 19:52:20	Gathering data constraint uddt bindings
+12.11.2025 19:52:20	Gathering message types
+12.11.2025 19:52:20	Gathering queues
+12.11.2025 19:52:20	Gathering contracts
+12.11.2025 19:52:20	Gathering services
+12.11.2025 19:52:20	Gathering event notifications
+12.11.2025 19:52:20	Gathering remote service bindings
+12.11.2025 19:52:20	Gathering broker priorities
+12.11.2025 19:52:20	Gathering signatures
+12.11.2025 19:52:20	Gathering compression options
+12.11.2025 19:52:20	Gathering sequence types
+12.11.2025 19:52:20	Gathering security policies
+12.11.2025 19:52:20	Gather column encryption keys
+12.11.2025 19:52:20	Gathering column master keys
+12.11.2025 19:52:20	Gathering external data sources
+12.11.2025 19:52:20	Gathering external file formats
+12.11.2025 19:52:20	Gathering external tables
+12.11.2025 19:52:20	Gathering XML index compression options
+12.11.2025 19:52:20	Gathering database permissions
+12.11.2025 19:52:20	Gathering extended properties
+12.11.2025 19:52:20	Gathering assemblies
+12.11.2025 19:52:20	Gathering logins
+12.11.2025 19:52:23	Scanning project for duplicate elements
+12.11.2025 19:52:23	Finished duplicate element processing
+12.11.2025 19:52:24	Finished importing database.
+12.11.2025 19:52:24	A summary of the import was saved to the following location: C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\Import Schema Logs\ZaawansowaneBazyDany_20251112065208.log
+12.11.2025 19:52:24	Click Finish to continue...

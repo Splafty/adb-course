@@ -1,8 +1,0 @@
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\bin\Debug\ZaawansowaneBazyDanych.dacpac
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.sqlproj.AssemblyReference.cache
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\Model.xml
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\refactor.xml
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\postdeploy.sql
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\predeploy.sql
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.dll
-C:\Users\Splaf\Desktop\adb-course\ZaawansowaneBazyDanych\ZaawansowaneBazyDanych\obj\Debug\ZaawansowaneBazyDanych.pdb

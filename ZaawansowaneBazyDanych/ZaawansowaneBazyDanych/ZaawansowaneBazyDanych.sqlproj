@@ -6,7 +6,7 @@
     <Name>ZaawansowaneBazyDanych</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{b7a4c92f-6319-4c23-a28c-f99f9a5fb659}</ProjectGuid>
+    <ProjectGuid>{2fffd603-6963-4a43-92eb-144df6c21ac5}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -135,6 +135,7 @@
     <Folder Include="dbo\User Defined Types\" />
     <Folder Include="Security\" />
     <Folder Include="SalesLT\Sequences\" />
+    <Folder Include="Lab" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\BuildVersion.sql">
@@ -162,6 +163,14 @@
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
     <Build Include="SalesLT\Tables\SalesOrderHeader.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="s230806\Tables\MSSQL_TemporalHistoryFor_1893581784.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="SalesLT\Tables\ProductAttribute.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
